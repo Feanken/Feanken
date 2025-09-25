@@ -93,7 +93,7 @@
 </p>
 
 
-
+<!--
 ---
 
 ### 🚀 Proyek Unggulan
@@ -101,7 +101,7 @@
 <table width="100%">
   <tr>
     <td width="50%">
-      <h3><a href="https://github.com/username-anda/nama-proyek-1">Nama Proyek 1: Aplikasi E-commerce</a></h3>
+      <h3><a href="https://github.com/username-anda/nama-proyek-1">Web Promingo</a></h3>
       <p>
         Deskripsi singkat tentang proyek ini. Jelaskan apa tujuannya, apa masalah yang dipecahkan, dan apa peran Anda dalam proyek ini.
       </p>
@@ -151,12 +151,17 @@
 </p>
 
 ---
-
+-->
 ### 📫 Hubungi Saya
 <p align="left">
 Jika Anda tertarik untuk berdiskusi, berkolaborasi, atau sekadar menyapa, jangan ragu untuk menghubungi saya!
 <br><br>
-<a href="https://linkedin.com/in/username-linkedin-anda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Username LinkedIn Anda" height="30" width="40" /></a>
-<a href="https://twitter.com/username-twitter-anda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Username Twitter Anda" height="30" width="40" /></a>
-<a href="mailto:alamat.email.anda@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Alamat Email Anda" height="30" width="40" /></a>
-</p>
+<a href="https://www.linkedin.com/in/fransiscoskw/" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
+       alt="Username LinkedIn Anda" height="30" width="40" />
+</a>
+<a href="mailto:fransisco001@binus.ac.id" target="_blank">
+  <img align="center" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" 
+       alt="Email Anda" height="30" width="40" />
+</a>
+
