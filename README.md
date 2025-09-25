@@ -2,14 +2,14 @@
   <img src="https://link-ke-gambar-banner-anda.com/banner.png" alt="Banner Profil GitHub Saya">
 </p>
 
-<h1 align="center">Halo! 👋 Saya [Nama Lengkap Anda]</h1>
-<h3 align="center">Seorang [Jabatan Anda, cth: Full-Stack Developer, Data Analyst, Mahasiswa IT] yang bersemangat dalam membangun solusi teknologi yang inovatif dan efisien.</h3>
+<h1 align="center">Halo! 👋 Saya Fransisco</h1>
+<h3 align="center">Seorang Mahasiswa Computer Science di Universitas Bina Nusantara dengan minat pada Software Developer dan Quality Assurance</h3>
 
 <p align="center">
-  <a href="https://link-ke-portfolio-anda.com" target="_blank">
-    <img src="https://img.shields.io/badge/My_Portfolio-000000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Portfolio">
+  <a href="https://raw.githubusercontent.com/username/nama-repo/main/asset/CV-Fransisco.pdf" download="CV-Fransisco.pdf">
+    <img src="https://img.shields.io/badge/My_CV-000000?style=for-the-badge&logo=document&logoColor=white" alt="CV">
   </a>
-  <a href="https://linkedin.com/in/username-linkedin-anda" target="_blank">
+  <a href="https://www.linkedin.com/in/fransiscoskw/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
