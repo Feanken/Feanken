@@ -19,16 +19,40 @@
 ### 👨‍💻 Tentang Saya
 
 <p>
-  Saya adalah seorang pengembang perangkat lunak dengan pengalaman dalam [sebutkan bidang spesialisasi, cth: pengembangan web, mobile, atau analisis data]. Saya sangat tertarik pada [sebutkan ketertarikan spesifik, cth: optimasi performa backend, desain UI/UX yang intuitif, atau machine learning].
-  <br><br>
-  Saat ini, saya sedang mencari peluang kerja <b>Full-Time</b> sebagai <b>[Posisi yang Diincar, cth: Backend Developer]</b> di mana saya bisa berkontribusi, belajar, dan berkembang bersama tim yang solid. Saya seorang pembelajar yang cepat dan selalu antusias untuk menguasai teknologi baru.
-  <br><br>
-  - 🔭 Saat ini saya sedang mengerjakan proyek pribadi tentang [sebutkan proyek yang sedang dikerjakan].
-  <br>
-  - 🌱 Saya sedang memperdalam ilmu tentang [sebutkan teknologi yang sedang dipelajari, cth: Go, Docker, atau Kubernetes].
-  <br>
-  - 📫 Cara menghubungi saya: <b>[alamat.email.anda@gmail.com]</b>
+  Saya adalah mahasiswa <b>Computer Science</b> di Universitas Bina Nusantara 
+  yang memiliki ketertarikan pada <b>Software Engineering</b> dan <b>Software Testing</b>.
 </p>
+
+<p>
+  💻 Saya terbiasa menggunakan:
+  <ul>
+    <li><b>Front-end & Back-end</b>: HTML, CSS, Java</li>
+    <li><b>IDE & Version Control</b>: Eclipse (Java), GitHub (Git)</li>
+    <li><b>Project Management</b>: Scrum, Notion</li>
+    <li><b>Database</b>: SQL (basic)</li>
+  </ul>
+</p>
+
+<p>
+  🧩 Saya juga pernah mempelajari:
+  <ul>
+    <li><b>C, C#, dan C++</b> untuk memahami <b>Software Design Pattern</b></li>
+    <li><b>Code Re-engineering</b> dalam konteks perbaikan dan optimasi software</li>
+    <li><b>Data Structure & Object-Oriented Programming (OOP)</b> dengan C# dan Java</li>
+  </ul>
+</p>
+
+<p>
+  📱 Saat ini saya sedang memperdalam:
+  <ul>
+    <li><b>Software Testing</b> (Manual & Automation)</li>
+    <li><b>Mobile Application Development</b></li>
+    <li><b>Object-Oriented Analysis and Design (OOAD)</b> yang berperan penting 
+        dalam <b>pengembangan software skala besar</b></li>
+  </ul>
+</p>
+
+
 
 ---
 
@@ -36,30 +60,42 @@
 
 <p align="left">
   <b>Bahasa Pemrograman:</b><br>
-  <a href="https://www.javascript.com/" target="_blank"><img style="margin: 5px;" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a>
-  <a href="https://www.python.org/" target="_blank"><img style="margin: 5px;" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
-  <a href="https://www.php.net/" target="_blank"><img style="margin: 5px;" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /></a>
+  <a href="https://www.java.com/" target="_blank">
+    <img style="margin: 5px;" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  </a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
+    <img style="margin: 5px;" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  </a>
+  <a href="https://isocpp.org/" target="_blank">
+    <img style="margin: 5px;" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  </a>
+
   <br><br>
   <b>Frontend Development:</b><br>
-  <a href="https://reactjs.org/" target="_blank"><img style="margin: 5px;" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /></a>
-  <a href="https://vuejs.org/" target="_blank"><img style="margin: 5px;" src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" /></a>
-  <a href="https://tailwindcss.com/" target="_blank"><img style="margin: 5px;" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /></a>
-  <br><br>
-  <b>Backend Development:</b><br>
-  <a href="https://nodejs.org/en/" target="_blank"><img style="margin: 5px;" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" /></a>
-  <a href="https://expressjs.com/" target="_blank"><img style="margin: 5px;" src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" /></a>
-  <a href="https://laravel.com/" target="_blank"><img style="margin: 5px;" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" /></a>
+  <a href="https://tailwindcss.com/" target="_blank">
+    <img style="margin: 5px;" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  </a>
+
   <br><br>
   <b>Database:</b><br>
-  <a href="https://www.mysql.com/" target="_blank"><img style="margin: 5px;" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /></a>
-  <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 5px;" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" /></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 5px;" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /></a>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img style="margin: 5px;" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  </a>
+
   <br><br>
   <b>Tools & Platform:</b><br>
-  <a href="https://git-scm.com/" target="_blank"><img style="margin: 5px;" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /></a>
-  <a href="https://www.docker.com/" target="_blank"><img style="margin: 5px;" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /></a>
-  <a href="https://www.figma.com/" target="_blank"><img style="margin: 5px;" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /></a>
+  <a href="https://github.com/" target="_blank">
+    <img style="margin: 5px;" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.figma.com/" target="_blank">
+    <img style="margin: 5px;" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  </a>
+  <a href="https://www.notion.so/" target="_blank">
+    <img style="margin: 5px;" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
+  </a>
 </p>
+
+
 
 ---
 
