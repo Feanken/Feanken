@@ -95,19 +95,25 @@
 
 ---
 
+## 🎯 My Projects
+
 ### 🚀 Proyek Campus
 
 <section style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
+
   <!-- Proyek 1 -->
-  <div style="flex: 1 1 30%; max-width: 30%; border: 1px solid #ddd; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 10px rgba(0,0,0,0.1); transition: transform 0.3s;">
+  <div style="flex: 1 1 30%; max-width: 30%; border: 1px solid #ddd; border-radius: 12px; overflow: hidden; 
+              box-shadow: 0 4px 10px rgba(0,0,0,0.1); transition: transform 0.3s;">
     <a href="https://notion.so/link-ke-proyek-1" target="_blank">
-  <img src="asset/prominggo.jpg" 
-       alt="Demo Proyek 1" 
-       style="width:100%; max-width:100px; max-height:100px; object-fit:cover; display:block; margin:auto;">
+      <img src="asset/prominggo.jpg" 
+           alt="Demo Proyek 1" 
+           style="width:100%; height:160px; object-fit:cover; display:block;">
     </a>
     <div style="padding: 16px;">
       <h3 style="margin: 0 0 10px;">
-        <a href="https://notion.so/link-ke-proyek-1" target="_blank" style="text-decoration: none; color: #333;">Web Promingo</a>
+        <a href="https://notion.so/link-ke-proyek-1" target="_blank" style="text-decoration: none; color: #333;">
+          Web Promingo
+        </a>
       </h3>
       <p>Promigo adalah aplikasi promo berbasis web yang membantu mahasiswa BINUS Anggrek menemukan penawaran relevan, hemat, dan sesuai kebutuhan sehari-hari. Dibangun untuk meningkatkan daya jual brand lokal serta memudahkan akses informasi promo.</p>
       <p><strong>Tech Stack:</strong> ReactJS, Supabase, Laravel</p>
@@ -120,41 +126,30 @@
   </div>
 
   <!-- Proyek 2 -->
-  <div style="flex: 1 1 30%; max-width: 30%; border: 1px solid #ddd; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 10px rgba(0,0,0,0.1); transition: transform 0.3s;">
+  <div style="flex: 1 1 30%; max-width: 30%; border: 1px solid #ddd; border-radius: 12px; overflow: hidden; 
+              box-shadow: 0 4px 10px rgba(0,0,0,0.1); transition: transform 0.3s;">
     <a href="https://notion.so/link-ke-proyek-2" target="_blank">
-      <img src="asset/jawel&diamond.png" alt="Demo Proyek 2" style="width:100%; display:block;">
+      <img src="asset/jawel&diamond.png" 
+           alt="Demo Proyek 2" 
+           style="width:100%; height:160px; object-fit:cover; display:block;">
     </a>
     <div style="padding: 16px;">
       <h3 style="margin: 0 0 10px;">
-        <a href="https://notion.so/link-ke-proyek-2" target="_blank" style="text-decoration: none; color: #333;">JAwels&Diamonds</a>
+        <a href="https://notion.so/link-ke-proyek-2" target="_blank" style="text-decoration: none; color: #333;">
+          JAwels&Diamonds
+        </a>
       </h3>
       <p><strong>JAwels&Diamonds</strong> adalah sistem manajemen item yang mendukung fitur penambahan, penghapusan, dan checkout. Proyek ini dibangun dengan menerapkan <strong>Strategy Pattern</strong> untuk menghasilkan arsitektur yang fleksibel, terstruktur, dan mudah dikembangkan.</p>
-      <p><strong>Tech Stack: </strong>C#</p>
+      <p><strong>Tech Stack:</strong> C#</p>
       |
       <a href="https://github.com/Feanken/Proyek_Pattern_Software_Design.git" target="_blank" style="color: #007acc; font-weight: bold;">Github</a>
       |
     </div>
   </div>
 
-  <!-- Proyek 3 (contoh kosong, bisa isi sendiri) -->
-  <div style="flex: 1 1 30%; max-width: 30%; border: 1px solid #ddd; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 10px rgba(0,0,0,0.1); transition: transform 0.3s;">
-    <a href="https://notion.so/link-ke-proyek-3" target="_blank">
-      <img src="asset/proyek3.png" alt="Demo Proyek 3" style="width:100%; display:block;">
-    </a>
-    <div style="padding: 16px;">
-      <h3 style="margin: 0 0 10px;">
-        <a href="https://notion.so/link-ke-proyek-3" target="_blank" style="text-decoration: none; color: #333;">Nama Proyek 3</a>
-      </h3>
-      <p>Deskripsi singkat proyek ketiga kamu. Bisa berupa web app, mobile app, atau sistem lainnya.</p>
-      <p><strong>Tech Stack:</strong> Sesuaikan</p>
-      |
-      <a href="https://github.com/" target="_blank" style="color: #007acc; font-weight: bold;">Github</a>
-      |
-      <a href="https://notion.so/" target="_blank" style="color: #007acc; font-weight: bold;">Notion</a>
-      |
-    </div>
-  </div>
 </section>
+
+
 
 
 
