@@ -129,10 +129,7 @@
       <h3><a href="https://github.com/username-anda/nama-proyek-2">JAwels&Diamonds</a></h3>
       <p><strong>JAwels&Diamonds</strong> adalah sistem manajemen item yang mendukung fitur penambahan, penghapusan, dan checkout. Proyek ini dibangun dengan menerapkan <strong>Strategy Pattern</strong> untuk menghasilkan arsitektur yang fleksibel, terstruktur, dan mudah dikembangkan.</p>
       <p>
-        <strong>Teknologi:</strong> Laravel, MySQL, Bootstrap.
-      </p>
-      <p>
-        | <a href="https://github.com/Feanken/Proyek_Pattern_Software_Design.git">Github</a> |
+        <strong>Tech Stack:</strong> Laravel, MySQL, Bootstrap.
       </p>
     </td>
   </tr>
@@ -145,20 +142,61 @@
   <table width="100%">
     <tr>
       <td width="50%">
-        <a href="https://github.com/username-anda/nama-proyek-2">
-          <img src="https://link-ke-screenshot-atau-gif-proyek-anda.com/proyek2.png" alt="Demo Proyek 2" width="100%">
+        <a href="https://drive.google.com/drive/folders/1lXHBlc7O2RNH4PZBO6qLio90aBSur4Cg?usp=drive_link">
+          <img src="asset/Project_AI.jpg" alt="Project 3" width="100%">
         </a>
       </td>
       <td width="50%">
-        <h3><a href="https://github.com/username-anda/nama-proyek-2">Nama Proyek 2: Sistem Manajemen Blog</a></h3>
+        <h3><a href="https://drive.google.com/drive/folders/1lXHBlc7O2RNH4PZBO6qLio90aBSur4Cg?usp=drive_link">Automatic Licences Number plate Recognition System Project</a></h3>
         <p>
-          Deskripsi singkat tentang proyek ini. Jelaskan fitur-fitur utamanya dan teknologi yang digunakan.
+          Sebuah proyek membuat prototype dari sebuah AI untuk mengenali nomor plate pada sebuah kendaraan.
         </p>
         <p>
-          <strong>Teknologi:</strong> Laravel, MySQL, Bootstrap.
+          <strong>Tech Stack:</strong> Python
         </p>
         <p>
-          <a href="https://github.com/username-anda/nama-proyek-2">Link Repositori</a>
+        | <a href="https://drive.google.com/drive/folders/1d2sterNA-lNCEtgtO-kiX3nu87JwgI4A?usp=drive_link">Code</a> | <a href="https://drive.google.com/drive/folders/1lXHBlc7O2RNH4PZBO6qLio90aBSur4Cg?usp=drive_link">Documetation</a> |
+      </p>
+      </td>
+    </tr>
+  </table>
+
+  <table width="100%">
+    <tr>
+      <td width="50%">
+        <h3><a href="https://www.figma.com/proto/eDqUFcYOg39vRn5vtabPbP/Figma-HCI?node-id=1-3&p=f&t=qRGJ9P7BjC0fLwiF-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A3">Project UI/UX Pariwisata Indonesia</a></h3>
+        <p>
+         Merancang antarmuka dan pengalaman pengguna untuk website yang menyoroti keberagaman Indonesia, termasuk acara, budaya, keunikan, dan kuliner.
+        </p>
+        <p>
+          <strong>Tech Stack:</strong> Figma
+        </p>
+        <p>
+        | <a href="https://www.figma.com/proto/eDqUFcYOg39vRn5vtabPbP/Figma-HCI?node-id=1-3&p=f&t=qRGJ9P7BjC0fLwiF-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A3">Lec Figma</a> | <a href="https://drive.google.com/file/d/1tCvhCuushn8aUPfjmDdXk0x43Afh694W/view?usp=sharing">Lec PPT</a> | 
+      </p>
+      </td>
+      <td width="50%">
+        <a href="https://drive.google.com/drive/folders/1lXHBlc7O2RNH4PZBO6qLio90aBSur4Cg?usp=drive_link">
+          <img src="asset/Project_HCI_LEC.png" alt="Project 3" width="100%">
+        </a>
+      </td>
+    </tr>
+  </table>
+
+  <table width="100%">
+    <tr>
+      <td width="50%">
+        <a href="https://www.figma.com/proto/lr3KauIxPFvJmG0qExRmwn/Untitled?node-id=3-4&starting-point-node-id=3%3A4">
+          <img src="asset/Project_HCI_Lab.png" alt="Project 3" width="100%">
+        </a>
+      </td>
+      <td width="50%">
+        <h3><a href="https://www.figma.com/proto/lr3KauIxPFvJmG0qExRmwn/Untitled?node-id=3-4&starting-point-node-id=3%3A4">Project UI/UX DiamondCuts Motors</a></h3>
+        <p>
+          Diamondcut adalah proyek tugas akhir berupa pengembangan website frontend untuk menampilkan informasi perusahaan, showroom, serta daftar mobil.
+        </p>
+        <p>
+          <strong>Tech Stack:</strong> Figma, HTML, CSS, Javascript
         </p>
       </td>
     </tr>
@@ -168,7 +206,7 @@
 
 
 ---
-
+<!--
 ### 📊 Statistik GitHub Saya
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=username-anda&show_icons=true&locale=en&theme=radical" alt="Statistik GitHub [Nama Anda]" />
@@ -176,17 +214,24 @@
 </p>
 
 ---
+-->
+
 
 ### 📫 Hubungi Saya
 <p align="left">
-Jika Anda tertarik untuk berdiskusi, berkolaborasi, atau sekadar menyapa, jangan ragu untuk menghubungi saya!
-<br><br>
+Hubungi saya melalui LinkedIn atau email untuk berdiskusi lebih lanjut.
+<<br><br>
 <a href="https://www.linkedin.com/in/fransiscoskw/" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
-       alt="Username LinkedIn Anda" height="30" width="40" />
+  <img align="center" 
+       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
+       alt="LinkedIn" width="60" height="60"
+       style="padding:5px; margin-right:30px;" />
 </a>
 <a href="mailto:fransisco001@binus.ac.id" target="_blank">
-  <img align="center" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" 
-       alt="Email Anda" height="30" width="40" />
+  <img align="center" 
+       src="https://cdn-icons-png.flaticon.com/512/281/281769.png" 
+       alt="Email" width="60" height="60"
+       style="padding:5px; margin-right:15px;" />
 </a>
+
 
