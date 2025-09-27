@@ -94,63 +94,49 @@
 
 
 ---
-
-## 🎯 My Projects
-
 ### 🚀 Proyek Campus
 
-<section style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <h3><a href="https://bit.ly/4l5uwp6">Promigo</a></h3>
+      <p>
+        Promigo adalah aplikasi promo berbasis web yang membantu mahasiswa BINUS Anggrek menemukan penawaran relevan, hemat, dan sesuai kebutuhan sehari-hari. Dibangun untuk meningkatkan daya jual brand lokal serta memudahkan akses informasi promo.
+      </p>
+      <p>
+        <strong>Tech Stack:</strong> ReactJS, Supabase, Laravel
+      </p>
+      <p>
+        | <a href="https://bit.ly/4l5uwp6">Github</a> | <a href="https://bit.ly/3FZMhHz">Notion</a> |
+      </p>
+    </td>
+    <td width="50%">
+      <a href="https://link-demo-live-proyek-anda.com">
+        <img src="asset/prominggo.jpg" alt="Demo Proyek 1" width="100%">
+      </a>
+    </td>
+  </tr>
+</table>
 
-  <!-- Proyek 1 -->
-  <div style="flex: 1 1 30%; max-width: 30%; border: 1px solid #ddd; border-radius: 12px; overflow: hidden; 
-              box-shadow: 0 4px 10px rgba(0,0,0,0.1); transition: transform 0.3s;">
-    <a href="https://notion.so/link-ke-proyek-1" target="_blank">
-      <img src="asset/prominggo.jpg" 
-           alt="Demo Proyek 1" 
-           style="width:100%; height:160px; object-fit:cover; display:block;">
-    </a>
-    <div style="padding: 16px;">
-      <h3 style="margin: 0 0 10px;">
-        <a href="https://notion.so/link-ke-proyek-1" target="_blank" style="text-decoration: none; color: #333;">
-          Web Promingo
-        </a>
-      </h3>
-      <p>Promigo adalah aplikasi promo berbasis web yang membantu mahasiswa BINUS Anggrek menemukan penawaran relevan, hemat, dan sesuai kebutuhan sehari-hari. Dibangun untuk meningkatkan daya jual brand lokal serta memudahkan akses informasi promo.</p>
-      <p><strong>Tech Stack:</strong> ReactJS, Supabase, Laravel</p>
-      |
-      <a href="https://bit.ly/4l5uwp6" target="_blank" style="color: #007acc; font-weight: bold;">Github</a>
-      |
-      <a href="https://bit.ly/3FZMhHz" target="_blank" style="color: #007acc; font-weight: bold;">Notion</a>
-      |
-    </div>
-  </div>
-
-  <!-- Proyek 2 -->
-  <div style="flex: 1 1 30%; max-width: 30%; border: 1px solid #ddd; border-radius: 12px; overflow: hidden; 
-              box-shadow: 0 4px 10px rgba(0,0,0,0.1); transition: transform 0.3s;">
-    <a href="https://notion.so/link-ke-proyek-2" target="_blank">
-      <img src="asset/jawel&diamond.png" 
-           alt="Demo Proyek 2" 
-           style="width:100%; height:160px; object-fit:cover; display:block;">
-    </a>
-    <div style="padding: 16px;">
-      <h3 style="margin: 0 0 10px;">
-        <a href="https://notion.so/link-ke-proyek-2" target="_blank" style="text-decoration: none; color: #333;">
-          JAwels&Diamonds
-        </a>
-      </h3>
+<table width="100%">
+  <tr>
+    <td width="50%">
+       <a href="https://github.com/Feanken/Proyek_Pattern_Software_Design.git">
+        <img src="asset/jawel&diamond.png" alt="Demo Proyek 2" width="100%">
+      </a>
+    </td>
+    <td width="50%">
+      <h3><a href="https://github.com/username-anda/nama-proyek-2">JAwels&Diamonds</a></h3>
       <p><strong>JAwels&Diamonds</strong> adalah sistem manajemen item yang mendukung fitur penambahan, penghapusan, dan checkout. Proyek ini dibangun dengan menerapkan <strong>Strategy Pattern</strong> untuk menghasilkan arsitektur yang fleksibel, terstruktur, dan mudah dikembangkan.</p>
-      <p><strong>Tech Stack:</strong> C#</p>
-      |
-      <a href="https://github.com/Feanken/Proyek_Pattern_Software_Design.git" target="_blank" style="color: #007acc; font-weight: bold;">Github</a>
-      |
-    </div>
-  </div>
-
-</section>
-
-
-
+      <p>
+        <strong>Teknologi:</strong> Laravel, MySQL, Bootstrap.
+      </p>
+      <p>
+        | <a href="https://github.com/Feanken/Proyek_Pattern_Software_Design.git">Github</a> |
+      </p>
+    </td>
+  </tr>
+</table>
 
 
 ---
