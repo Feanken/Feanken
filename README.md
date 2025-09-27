@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="https://link-ke-gambar-banner-anda.com/banner.png" alt="Banner Profil GitHub Saya">
+  <p align="center">
+  <img src="asset/fotoProfile.png" alt="Foto Profil Saya" style="border-radius: 50%; width: 150px; height: 150px; object-fit: cover;">
+</p>
 </p>
 
 <h1 align="center">Halo! 👋 Saya Fransisco</h1>
@@ -107,7 +109,7 @@
         <strong>Tech Stack:</strong> ReactJS, Supabase, Laravel
       </p>
       <p>
-        | <a href="https://bit.ly/4l5uwp6">Github</a> | <a href="https://bit.ly/3FZMhHz">Notion</a> |
+        | <a href="https://bit.ly/3FZMhHz">Github</a> | <a href="https://bit.ly/4l5uwp6">Notion</a> |
       </p>
     </td>
     <td width="50%">
@@ -137,6 +139,34 @@
     </td>
   </tr>
 </table>
+
+<details>
+  <summary><strong>📄 Jelajahi Proyek Selengkapnya</strong></summary>
+  
+  <br>
+  <table width="100%">
+    <tr>
+      <td width="50%">
+        <a href="https://github.com/username-anda/nama-proyek-2">
+          <img src="https://link-ke-screenshot-atau-gif-proyek-anda.com/proyek2.png" alt="Demo Proyek 2" width="100%">
+        </a>
+      </td>
+      <td width="50%">
+        <h3><a href="https://github.com/username-anda/nama-proyek-2">Nama Proyek 2: Sistem Manajemen Blog</a></h3>
+        <p>
+          Deskripsi singkat tentang proyek ini. Jelaskan fitur-fitur utamanya dan teknologi yang digunakan.
+        </p>
+        <p>
+          <strong>Teknologi:</strong> Laravel, MySQL, Bootstrap.
+        </p>
+        <p>
+          <a href="https://github.com/username-anda/nama-proyek-2">Link Repositori</a>
+        </p>
+      </td>
+    </tr>
+  </table>
+
+  </details>
 
 
 ---
