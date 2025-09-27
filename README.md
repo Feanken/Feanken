@@ -1,9 +1,7 @@
 <p align="center">
   <p align="center">
-  <img src="asset/fotoProfile.png" alt="Foto Profil Saya" style="border-radius: 50%; width: 150px; height: 150px; object-fit: cover;">
+  <img src="asset/fotoProfile.png" alt="Foto Profil Saya" style="border-radius: 50%; width: 150px; height: 150px; object-fit: cover; border: 2px solid #212514ad;">
 </p>
-</p>
-
 <h1 align="center">Halo! 👋 Saya Fransisco</h1>
 <h3 align="center">Seorang Mahasiswa Computer Science di Universitas Bina Nusantara dengan minat pada Software Developer dan Quality Assurance</h3>
 
