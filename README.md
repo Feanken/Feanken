@@ -103,7 +103,7 @@
     <a href="https://notion.so/link-ke-proyek-1" target="_blank">
   <img src="asset/prominggo.jpg" 
        alt="Demo Proyek 1" 
-       style="width:100%; max-width:300px; max-height:200px; object-fit:cover; display:block; margin:auto;">
+       style="width:100%; max-width:100px; max-height:100px; object-fit:cover; display:block; margin:auto;">
     </a>
     <div style="padding: 16px;">
       <h3 style="margin: 0 0 10px;">
