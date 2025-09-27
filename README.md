@@ -93,7 +93,6 @@
 </p>
 
 
-<!--
 ---
 
 ### 🚀 Proyek Unggulan
@@ -151,7 +150,7 @@
 </p>
 
 ---
--->
+
 ### 📫 Hubungi Saya
 <p align="left">
 Jika Anda tertarik untuk berdiskusi, berkolaborasi, atau sekadar menyapa, jangan ragu untuk menghubungi saya!
