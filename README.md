@@ -97,11 +97,13 @@
 
 ### 🚀 Proyek Campus
 
-<<section style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
+<section style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
   <!-- Proyek 1 -->
   <div style="flex: 1 1 30%; max-width: 30%; border: 1px solid #ddd; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 10px rgba(0,0,0,0.1); transition: transform 0.3s;">
     <a href="https://notion.so/link-ke-proyek-1" target="_blank">
-      <img src="asset/prominggo.jpg" alt="Demo Proyek 1" style="width:100%; display:block;">
+  <img src="asset/prominggo.jpg" 
+       alt="Demo Proyek 1" 
+       style="width:100%; max-width:300px; max-height:200px; object-fit:cover; display:block; margin:auto;">
     </a>
     <div style="padding: 16px;">
       <h3 style="margin: 0 0 10px;">
