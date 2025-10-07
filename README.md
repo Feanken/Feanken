@@ -6,7 +6,7 @@
 <h3 align="center">Seorang Mahasiswa Computer Science di Universitas Bina Nusantara dengan minat Software Enggineering</h3>
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1NBnmfolgCUMKxEhtaDDTsTOsyqNhME_u/view?usp=sharing" download="CV-Fransisco.pdf">
+  <a href="https://drive.google.com/file/d/1Ic_1j2mTqPEJGLNN07vkgBqXPzA_W3iP/view?usp=sharing" download="CV-Fransisco.pdf">
     <img src="https://img.shields.io/badge/My_CV-000000?style=for-the-badge&logo=document&logoColor=white" alt="CV">
   </a>
   <a href="https://www.linkedin.com/in/fransiscoskw/" target="_blank">
