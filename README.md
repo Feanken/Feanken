@@ -3,7 +3,7 @@
   <img src="asset/fotoProfile.png" alt="Foto Profil Saya" style="border-radius: 50%; width: 150px; height: 150px; object-fit: cover; border: 2px solid #212514ad;">
 </p>
 <h1 align="center">Halo! 👋 Saya Fransisco</h1>
-<h3 align="center">Seorang Mahasiswa Computer Science di Universitas Bina Nusantara dengan minat pada Software Developer dan Quality Assurance</h3>
+<h3 align="center">Seorang Mahasiswa Computer Science di Universitas Bina Nusantara dengan minat Software Enggineering</h3>
 
 <p align="center">
   <a href="https://drive.google.com/file/d/1NBnmfolgCUMKxEhtaDDTsTOsyqNhME_u/view?usp=sharing" download="CV-Fransisco.pdf">
@@ -16,41 +16,109 @@
 
 ---
 
-### 👨‍💻 Tentang Saya
+### 👨‍💻 **Tentang Saya**
 
-<p>
-  Saya adalah mahasiswa <b>Computer Science</b> di Universitas Bina Nusantara 
-  yang memiliki ketertarikan pada <b>Software Engineering</b> dan <b>Software Testing</b>.
-</p>
+Halo! Saya adalah seorang mahasiswa **Ilmu Komputer (Computer Science)** di **Universitas Bina Nusantara** dengan antusiasme tinggi pada bidang **Software Engineering**. Saya bersemangat dalam merancang, membangun, dan mengoptimalkan perangkat lunak untuk menciptakan solusi yang efisien dan andal.
 
-<p>
-  💻 Saya terbiasa menggunakan:
+---
+
+### 🛠️ **Toolbox & Keahlian Teknis**
+
+Berikut adalah teknologi dan metodologi yang saya gunakan dalam pengembangan proyek:
+
+* **Bahasa Pemrograman:**
+    * `Java`
+    * `C#`
+    * `C++`
+    * `C`
+    * `HTML`
+    * `CSS`
+    * `SQL (Basic)`
+
+* **Tools & Platform:**
+    * **IDE:** Eclipse
+    * **Version Control:** Git, GitHub
+    * **Project Management:** Notion
+
+* **Metodologi:**
+    * Agile
+    * Scrum
+
+---
+
+### 🌱 **Fokus Saat Ini**
+
+Saat ini, saya sedang memperdalam pemahaman dan keahlian saya dalam:
+
+* **Mobile Application Development**: Membangun aplikasi untuk platform mobile.
+* **Object-Oriented Analysis & Design (OOAD)**: Menerapkan prinsip-prinsip desain untuk membangun arsitektur software yang *scalable* dan *maintainable*.
+* **Framework Layer Architecture**: Memahami arsitektur berlapis dalam pengembangan aplikasi modern.
+
+---
+
+### 📚 **Pengetahuan Fundamental**
+
+Fondasi akademis saya mencakup pemahaman yang kuat dalam konsep-konsep inti berikut:
+
+* **Struktur Data & Algoritma**
+* **Object-Oriented Programming (OOP)**
+* **Software Design Patterns**
+* **Database Technology**
+* **Computer Networks**
+* **Code Re-engineering & Optimization**
+
+<br>
+
+<details>
+<summary><strong>🎓 Klik untuk melihat daftar Mata Kuliah relevan yang telah saya pelajari</strong></summary>
+<br>
+
+📚 **Semester 1**
   <ul>
-    <li><b>Front-end & Back-end</b>: HTML, CSS, Java</li>
-    <li><b>IDE & Version Control</b>: Eclipse (Java), GitHub (Git)</li>
-    <li><b>Project Management</b>: Scrum, Notion</li>
-    <li><b>Database</b>: SQL (basic)</li>
+    <li><b>Algorithm and Programming</b></li>
+    <li><b>Basic Statistics</b></li>
+    <li><b>Discrete Mathematics</b></li>
+    <li><b>Linear Algebra</b></li>
+    <li><b>Program Design Methods</b></li>
   </ul>
-</p>
 
-<p>
-  🧩 Saya juga pernah mempelajari:
+📚 **Semester 2**
   <ul>
-    <li><b>C, C#, dan C++</b> untuk memahami <b>Software Design Pattern</b></li>
-    <li><b>Code Re-engineering</b> dalam konteks perbaikan dan optimasi software</li>
-    <li><b>Data Structure & Object-Oriented Programming (OOP)</b> dengan C# dan Java</li>
+    <li><b>Data Structures</b></li>
+    <li><b>Human and Computer Interaction</b></li>
+    <li><b>Scientific Computing</b></li>
+    <li><b>Calculus</b></li>
   </ul>
-</p>
 
-<p>
-  📱 Saat ini saya sedang memperdalam:
+📚 **Semester 3**
   <ul>
-    <li><b>Software Testing</b> (Manual & Automation)</li>
-    <li><b>Mobile Application Development</b></li>
-    <li><b>Object-Oriented Analysis and Design (OOAD)</b> yang berperan penting 
-        dalam <b>pengembangan software skala besar</b></li>
+    <li><b>Algorithm Design and Analysis</b></li>
+    <li><b>Artificial Intelligence</b></li>
+    <li><b>Database Technology</b></li>
+    <li><b>Object Oriented Programming</b></li>
+    <li><b>Computer Networks</b></li>
+    <li><b>Computational Physics</b></li>
   </ul>
-</p>
+
+⚙️ **Semester 4 - Software Engineering**
+  <ul>
+    <li><b>Software Engineering</b></li>
+    <li><b>Software Design Patterns</b></li>
+    <li><b>Agile Software Development</b></li>
+    <li><b>Code Re-engineering</b></li>
+    <li><b>Computational Biology</b></li>
+  </ul>
+
+⚙️ **Semester 5 - Software Engineering**
+  <ul>
+    <li><b>Framework Layer Architecture</b></li>
+    <li><b>Object Oriented Analysis & Design</b></li>
+    <li><b>Compilation Techniques</b></li>
+    <li><b>Mobile Programming</b></li>
+    <li><b>Operating System</b></li>
+  </ul>
+
+</details>
 
 
 
@@ -63,35 +131,75 @@
   <a href="https://www.java.com/" target="_blank">
     <img style="margin: 5px;" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
   </a>
+  <a href="https://www.python.org" target="_blank">
+    <img style="margin: 5px;" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img style="margin: 5px;" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  </a>
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
     <img style="margin: 5px;" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
   </a>
   <a href="https://isocpp.org/" target="_blank">
     <img style="margin: 5px;" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   </a>
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
+    <img style="margin: 5px;" src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+  </a>
+  <br>
 
   <b>Frontend Development:</b><br>
+  <a href="https://react.dev/" target="_blank">
+    <img style="margin: 5px;" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  </a>
   <a href="https://tailwindcss.com/" target="_blank">
     <img style="margin: 5px;" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img style="margin: 5px;" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img style="margin: 5px;" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  </a>
+  <br>
 
   <b>Database:</b><br>
   <a href="https://www.mysql.com/" target="_blank">
     <img style="margin: 5px;" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   </a>
-
+  <br>
+  
   <b>Tools & Platform:</b><br>
+  <a href="https://git-scm.com/" target="_blank">
+    <img style="margin: 5px;" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  </a>
   <a href="https://github.com/" target="_blank">
     <img style="margin: 5px;" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.figma.com/" target="_blank">
-    <img style="margin: 5px;" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <a href="https://www.eclipse.org/" target="_blank">
+    <img style="margin: 5px;" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white" />
+  </a>
+  <a href="https://www.visual-paradigm.com/" target="_blank">
+    <img style="margin: 5px;" src="https://img.shields.io/badge/Visual%20Paradigm-1A90D4?style=for-the-badge&logo=visualparadigm&logoColor=white" />
   </a>
   <a href="https://www.notion.so/" target="_blank">
     <img style="margin: 5px;" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
   </a>
+  <br>
+  
+  <b>Design:</b><br>
+  <a href="https://www.figma.com/" target="_blank">
+    <img style="margin: 5px;" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  </a>
+  <a href="https://www.canva.com/" target="_blank">
+    <img style="margin: 5px;" src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+  </a>
+  <br>
+  
+  <b>Metodologi:</b><br>
+  <img style="margin: 5px;" src="https://img.shields.io/badge/Agile-4BC51D?style=for-the-badge" />
+  <img style="margin: 5px;" src="https://img.shields.io/badge/Scrum-0093D8?style=for-the-badge" />
 </p>
-
 
 ---
 ### 🚀 Proyek Campus
